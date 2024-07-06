@@ -36,6 +36,9 @@ button{
     font-size: 33px;
     margin-bottom: 3px;
 }
+button:hover{
+    cursor: pointer;
+}
 .number{
     margin-top: 14px;
     margin-left: 14px;
